@@ -1,0 +1,6 @@
+c:\users\adm\documents\visual studio 2013\Projects\Looping_Relogio\Looping_Relogio\bin\Debug\Looping_Relogio.exe.config
+c:\users\adm\documents\visual studio 2013\Projects\Looping_Relogio\Looping_Relogio\bin\Debug\Looping_Relogio.exe
+c:\users\adm\documents\visual studio 2013\Projects\Looping_Relogio\Looping_Relogio\bin\Debug\Looping_Relogio.pdb
+c:\users\adm\documents\visual studio 2013\Projects\Looping_Relogio\Looping_Relogio\obj\Debug\Looping_Relogio.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2013\Projects\Looping_Relogio\Looping_Relogio\obj\Debug\Looping_Relogio.exe
+c:\users\adm\documents\visual studio 2013\Projects\Looping_Relogio\Looping_Relogio\obj\Debug\Looping_Relogio.pdb
